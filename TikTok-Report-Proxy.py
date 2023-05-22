@@ -14,7 +14,7 @@ print(Fore.RED + '''
                                          GitHub: LeetIDA                                  
 ''')
 
-tiktok_url = input("Request Link: ")
+tiktok_url = input("Request Link:https://www.tiktok.com/@haifaismael?is_from_webapp=1&sender_device=pc ")
 
 while True:
     with open("proxy.txt", "r") as file:
